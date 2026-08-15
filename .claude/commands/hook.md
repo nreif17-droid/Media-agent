@@ -3,8 +3,9 @@ description: Generate 5 hook variants from something real that happened
 argument-hint: [the real thing that happened]
 ---
 
-Read `agents/media-marketing/content/hook-bank.md` and
-`agents/media-marketing/knowledge/hooks.md` first.
+Read `agents/media-marketing/content/hook-bank.md`,
+`agents/media-marketing/knowledge/hooks.md`, and
+`agents/media-marketing/knowledge/clip-construction.md` first.
 
 Take the real thing described in `$ARGUMENTS` (a training session, a
 failure, a sales-day moment — whatever Nolan gives you). If it's missing
@@ -29,5 +30,7 @@ inventing detail to fill the gap.
 5. Never use the disallowed patterns ("Most people will never…", "The
    1%…", "If you're watching this, it's a sign…") — they're excluded
    from the bank on purpose.
-6. Output just the 5 hooks, numbered, each one line, pattern tagged in
-   brackets. No preamble.
+6. For each hook, add a one-line shot note applying the four-beat
+   structure from `clip-construction.md` — what the cut-in is, and what
+   escalates in the body so the clip doesn't go flat.
+7. Output the 5 hooks, numbered, each with its shot note. No preamble.

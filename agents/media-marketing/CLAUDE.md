@@ -114,6 +114,8 @@ the source of truth for exact behavior.
 - `knowledge/platform.md` — IG distribution mechanics, ranking signals,
   dated + re-check intervals.
 - `knowledge/hooks.md` — hook taxonomy, retention research.
+- `knowledge/clip-construction.md` — the four-beat structure, caption/
+  audio/pacing rules, and pre-post checklist for actually cutting a clip.
 - `knowledge/funnel.md` — DM keyword funnel, front door, price ladder,
   realistic conversion math.
 - `knowledge/competitors.md` — the five creators' funnels, verifiable vs.
