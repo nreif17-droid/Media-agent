@@ -123,6 +123,8 @@ the source of truth for exact behavior.
 - `content/pillars.md` — concept prompts per pillar.
 - `content/hook-bank.md` — 48 hooks tagged by pillar/pattern, used/unused.
 - `content/calendar.md` — rolling 30-day slate.
+- `content/scripted-concepts.md` — full four-beat shot scripts, ready to
+  shoot, tied to specific hook-bank rows.
 - `reference/` — the three source docs (blueprint, teardown, this build
   prompt) as originally provided.
 - `log-schema.md` — exact post-log and weekly-review formats.

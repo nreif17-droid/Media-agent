@@ -59,6 +59,11 @@ refusal of guru frame · **DA** direct address · **IM** in-motion cold open
 | 46 | Forge | CO | "This is what it actually takes to keep training on this schedule." | unused |
 | 47 | Doctrine | DA | "If you're waiting to feel ready, this is for you." | unused |
 | 48 | Path | CF | "I put [X] in a drawer this month. Here's why that was the right call." | unused |
+| 49 | Forge | PR | "Day [N] of conditioning bone I didn't know I had." | unused |
+| 50 | Grind | PR | "2:40am. This day doesn't end for [N] hours." | unused |
+| 51 | Forge | CF | "This is what day [N] actually looks like." (timed to a rep failing on screen) | unused |
+| 52 | Path | DA | "17 months from now, none of this looks the same." | unused |
+| 53 | Path | DA | "When will tomorrow become today?" | used (trial reel — physique/flex) |
 
 ## Notes
 
